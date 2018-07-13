@@ -1,0 +1,144 @@
+﻿/*Navbar*/
+#navvy {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    color: white;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+/*Index*/
+.indexSiteName {
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+}
+
+.indexLogoCenter {
+    text-align: center;
+}
+
+.indexLogo {
+    width: 700px;
+    height: 500px;
+    text-align: center;
+}
+
+.indexLogoPhone {
+    width: 100%;
+    height: 300px;
+}
+
+.topicNames {
+    text-align: center;
+}
+
+/*Left Sidebar*/
+.siteName {
+    font-family: 'Shrikhand', cursive;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    ;
+}
+
+.logoPic {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+body #border {
+    border-top: solid;
+    border-color: black;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.leftLinks {
+    text-align: center;
+    margin: 20px, 0px, 0px, 0px;
+    padding: 20px, 0px, 0px, 0px;
+}
+
+#leftBarColor {
+    background-color: #F6F6F6;
+}
+
+/*Wiki Body*/
+.bodyTitle {
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+.bodyText {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mainPic {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    height: 394px;
+    width: 310px;
+}
+
+#phonePic {
+    width: 100%;
+    padding-left: 0px;
+    margin-left: 0px;
+    padding-bottom: 20px;
+}
+
+.contents {
+    border: solid;
+    border-width: 1px;
+    border-color: darkblue;
+    padding-left: 15px;
+}
+
+.bodyText2 {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.unorderedListBody {
+    padding-bottom: 20px;
+}
+
+.characterTable td {
+    margin-right: 25px;
+    padding: 8px;
+    border: solid;
+    border-width: 2px;
+    text-align: center;
+    background-color: #F6F6F6;
+}
+
+.characterTable th {
+    text-align: center;
+    border: solid;
+    border-width: 2px, 0px 2px, 2px;
+    background-color: #859BBC;
+}
+
+.tableBorder {
+    overflow: auto;
+    overflow-y: hidden;
+}
+
+.jumbotron {
+    background-color: #ECF45C;
+}
+
+.centerText {
+    text-align: center;
+}
+
+body {
+}
